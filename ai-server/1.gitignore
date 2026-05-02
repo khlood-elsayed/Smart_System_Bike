@@ -1,0 +1,12 @@
+smartbike-iot-e3e31-firebase-adminsdk-fbsvc-b54dce0f6e.json
+venv/
+ai-server/venv/
+venv/
+node_modules/
+__pycache__/
+*.keras
+*.traineddata
+ai-server/tessdata-main/
+serviceAccountKey.json
+.env
+ai-server/my_dataset/

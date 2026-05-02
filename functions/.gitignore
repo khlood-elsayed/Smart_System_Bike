@@ -1,0 +1,11 @@
+node_modules/
+*.local
+venv/
+node_modules/
+__pycache__/
+*.keras
+*.traineddata
+ai-server/tessdata-main/
+serviceAccountKey.json
+.env
+ai-server/my_dataset/

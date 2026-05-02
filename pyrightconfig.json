@@ -1,0 +1,21 @@
+{
+    "include": [
+        "src",
+        "ai-server"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/.*"
+    ],
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Windows",
+    "venvPath": ".",
+    "venv": "ai-server/venv",
+    "typeCheckingMode": "off",
+    "useLibraryCodeForTypes": false,
+    "reportMissingImports": false,
+    "reportMissingModuleSource": false,
+    "reportMissingTypeStubs": false,
+    "stubPath": "typings"
+}
